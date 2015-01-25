@@ -1,0 +1,5 @@
+#twitterAPI list
+Consumer key : wZQ7lwaKpatg9k8FE6XsbzUUV
+Consumer secret : coy2bwrQJoT8kG1o7Vtu13M3R0p27g3yQAZP72Ivt4En7g2PAX
+Access token : 759761046-MpkQlNnSlyFu8kaQAcH6JoOHBdhLITBum0KEwT3i
+Access token secret : CmdRijuG6o5X6HuERLD2YkPduRIOzRcBC4ybe8ZU8ZCwj
